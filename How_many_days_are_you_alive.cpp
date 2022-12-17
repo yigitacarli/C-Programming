@@ -8,7 +8,7 @@ int main() {
 	int toplamyil=0,toplamay=0,toplamzaman;
 	int cevap;
 	
-	//bir yıl 365 gün.
+	//bir yÃ½l 365 gÃ¼n.
 	
 	printf("Enter the day, month and year you were born: \n");
 	scanf("%d%d%d",&gun,&ay,&yil);
