@@ -1,6 +1,6 @@
 //is the number is odd or even?
 //odd > tek
-//even > çift
+//even > Ã§ift
 
 #include<stdio.h>
 #include<stdlib.h>
